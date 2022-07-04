@@ -1,0 +1,71 @@
+*{ 
+    margin: 0;
+    background-color: powderblue;
+    font-display:1px ;
+}
+td{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:  5vw;
+    border: 1px solid black ;
+    text-align: center ;
+}
+.HeadingOne {
+    
+    padding: 0;
+    font-size: 5vw;
+    font-stretch: extra-expanded;
+    font-style: italic;
+    text-shadow: 0px;
+    color: rgb(92, 8, 92) ;
+    background-size: cover;
+    background-color: plum;
+}
+
+.noBorder {
+    border:none
+
+}
+.oneborder {
+    border: none;
+}
+.twoborder {
+ border: none;   
+
+}
+.color_1 {
+    background-color: palevioletred;
+
+}
+.color_2 {
+    background-color: rgb(235, 179, 130);
+}
+.color_3 {
+    background-color: palevioletred;
+}
+.color_4 { background-color:  rgb(25, 173, 231);
+
+}
+.color_5 {
+    background-color: blueviolet;
+}
+.color_6 {
+    background-color: cadetblue;
+}
+.color_7 {
+    background-color: rgb(6, 179, 6);
+}
+.color_8 {
+    background-color: rgb(91, 241, 91);
+}
+.color_9 {
+    background-color: rgb(221, 221, 37) ;
+}
+.color_10 {
+    background-color: rgb(184, 161, 161);
+}
+.color_11 {
+    background-color: rgb(144, 175, 144);
+}
+.color_12 {
+    background-color: rgb(218, 218, 176);
+}
